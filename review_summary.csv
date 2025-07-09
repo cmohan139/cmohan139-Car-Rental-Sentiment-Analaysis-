@@ -1,0 +1,11 @@
+review,Polarity,Sentiment,Key Issues
+The car was in great condition and the service was quick.,0.5666666666666667,Positive,"service, car"
+I waited 45 minutes for the car to arrive. Not acceptable!,0.0,Neutral,"waited, arrive"
+"The staff were friendly, and the vehicle was clean.",0.37083333333333335,Positive,"staff, vehicle"
+Terrible experience — the car broke down halfway through!,-0.5972222222222222,Negative,"broke, car"
+Excellent value for money. I’ll use this service again.,1.0,Positive,"service, value"
+Late delivery and the car wasn’t clean.,0.033333333333333354,Neutral,"car, clean"
+The car was fine but the pickup process was too slow.,0.05833333333333332,Neutral,"pickup, car"
+Customer service was helpful and professional.,0.1,Neutral,"customer, service"
+"Engine noise was loud, car not properly maintained.",0.05,Neutral,"noise, loud"
+Amazing experience. Quick check-in and checkout!,0.5083333333333333,Positive,"checkout, experience"
